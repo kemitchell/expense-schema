@@ -1,0 +1,8 @@
+{
+  "name": "@kemitchell/expense-schema",
+  "version": "0.0.0",
+  "description": "JSON Schema for expenses",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "repository": "kemitchell/expense-schema.js",
+  "license": "Apache-2.0"
+}
